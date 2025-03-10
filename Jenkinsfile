@@ -15,7 +15,7 @@ pipeline {
             steps {
                 script {
                     echo "Testing the compiled file..."
-                    sh '.PES1IUG22AM905-1'
+                    sh './PES1IUG22AM905-1'
                 }
             }
         }
